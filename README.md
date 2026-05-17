@@ -14,7 +14,7 @@ evaluation, prompt efficiency
 
 ---
 
-Portfolio: [anshdawda.me](https://anshdawda.me)
+[anshdawda.me](https://anshdawda.me)
 
 Based in Saarbrücken, Germany
 
