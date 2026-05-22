@@ -1,23 +1,10 @@
-## Ansh Dawda
+# Ansh Dawda
 
-MSc Data Science & AI @ Universität des Saarlandes
+MSc Data Science & AI @ UdS. Werkstudent at DHC
 
-Werkstudent @ DHC Business Solutions
+I build RAG systems and LLM pipelines mostly — retrieval, evaluation, knowledge graphs
 
-**What I build:** RAG systems, LLM evaluation pipelines,
-agentic workflows, retrieval architectures
-
-**Tech I use a lot:** Python · LangChain · LangGraph · PyTorch
-HuggingFace · FAISS · BM25 · Neo4j · FastAPI · Docker
-
-**Currently exploring:** multilingual retrieval, LLM-as-a-Judge
-evaluation, prompt efficiency
-
----
-
-[anshdawda.me](https://anshdawda.me)
-
-Based in Saarbrücken, Germany
+[anshdawda.me](https://anshdawda.me) · Saarbrücken, Germany
 
 <!---
 unshDee/unshDee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
