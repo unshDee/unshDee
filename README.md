@@ -1,5 +1,3 @@
-# Ansh Dawda
-
 MSc Data Science & AI @ Saarland University  
 Working Student in Applied AI @ DHC · Saarbrücken, Germany
 
